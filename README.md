@@ -1,6 +1,6 @@
 ## Commerce Data Usability Project
 ####VIIRS Nighttime Imagery for Socioeconomic Indicators: Odd months
-######Lead: Jeff Chen, Chief Data Scientist, Commerce Data Service
+######Co-Leads: Star Ying (Data Scientist), Jeff Chen (Chief Data Scientist) 
 
 Note: This is parallel project to the "even months" project in which two teams of Commerce Data Service data scientists are independently producing models to evaluate the objective. 
 
@@ -16,5 +16,5 @@ Using various pattern detection methods, train and evaluate models against hundr
   - Collection of multiple county level data sources from the Census Bureau, Bureau of Labor Statistics, Energy Information Administration
   - Iterative model training 
 - **December 2015**:
-  - Reveal first findings, discussions on production possibilities
+  - Reveal first findings, discussions on production possibilities, tutorials
 
