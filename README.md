@@ -1,4 +1,4 @@
-## Commerce Data Usability Project
+## [Commerce Usability Project](http://commercedataservice.github.io/CommerceUsabilityProject/)
 ####VIIRS Nighttime Imagery: Part 1 -- Data Processing
 ######Co-Leads: Star Ying (Data Scientist), Jeff Chen (Chief Data Scientist) 
 
