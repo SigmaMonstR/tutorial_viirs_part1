@@ -13,7 +13,6 @@ Using various pattern detection methods, train and evaluate models against hundr
   - Initial data collection using VIIRS monthly composites, discussions with NOAA
   - Collection of multiple county level data sources from the Census Bureau, Bureau of Labor Statistics, Energy Information Administration
 - **December 2015**:
-  - Reveal first findings, discussions on production possibilities, tutorials
-  - Publish R and Python code for data processing
-  - Publish R and Python code for scoring models
+  - Publish Part 1 for basic data extraction from satellite imagery 
+  - Publish Part 2 for data mining from satellite imagery
 
