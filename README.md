@@ -1,4 +1,4 @@
-## [Commerce Usability Project](http://commercedataservice.github.io/CommerceUsabilityProject/)
+## Commerce Data Usability Project
 ####VIIRS Nighttime Imagery: Part 1 -- Data Processing
 ######Co-Leads: Star Ying (Data Scientist), Jeff Chen (Chief Data Scientist) 
 
@@ -13,6 +13,7 @@ Using various pattern detection methods, train and evaluate models against hundr
   - Initial data collection using VIIRS monthly composites, discussions with NOAA
   - Collection of multiple county level data sources from the Census Bureau, Bureau of Labor Statistics, Energy Information Administration
 - **December 2015**:
-  - Publish Part 1 for basic data extraction from satellite imagery 
-  - Publish Part 2 for data mining from satellite imagery
+  - Reveal first findings, discussions on production possibilities, tutorials
+  - Publish R and Python code for data processing
+  - Publish R and Python code for scoring models
 
