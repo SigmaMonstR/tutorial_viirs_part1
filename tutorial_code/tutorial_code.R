@@ -41,7 +41,7 @@ library(plotly)
 # Satellite data is complex and processed in a number of ways to correct for a manifold of environmental conditions like stray light. 
 # In the case of analyzing population demographics, we use VIIRS DNB monthly composites that omit records that have been effected by stray light. To obtain the data:
 # 
-# - Raster files can be obtained [here](http://ngdc.noaa.gov/eog/viirs/download_monthly.html);
+# - Raster files can be obtained [here](https://www.ngdc.noaa.gov/eog/viirs/download_dnb_composites.html);
 # - Under each month's folder, select **Tile1_75N180W**, which contains data for North America;
 # - Within this folder, download the file labeled **VCMCFG** containing data that excludes any stray light. 
 # - There are two files. The file ending in **avg_rade9** contains average radiances; this should be set aside for use. The other file ending in "" contains the number of cloud free pixels included in each pixel's calculation.
